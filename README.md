@@ -7,7 +7,7 @@ Like Lion US class of 2022, University of California San Diego 🇺🇸 🇰🇷
 
 
 
-### 💡 Tech Stack
+💡 Tech Stack
 ---
 FullStack Development, DevOps, Data Science, IOT, AI,
 Machine Leaning(Knowledge-Based Filtering: KB), 
@@ -15,14 +15,14 @@ Deep Learning(Image Pose Recognition)
 
 
 
-### 💡 Programming Language, Framework
+💡 Programming Language, Framework
 ---
 (Planning) Python, Go, MXNet, ReactJS, NodeJS, react, SQLite, .... 
 
 
 
 
-### 💡 Main Feature 
+💡 Main Feature 
 ---
 <img width="250" alt="Screen Shot 2022-10-20 at 2 15 47 AM" src="https://user-images.githubusercontent.com/88092102/196908519-8323cfb6-3c43-4edf-8dd1-dbadad15596a.png">.    <img width="250" alt="Screen Shot 2022-10-20 at 2 16 08 AM" src="https://user-images.githubusercontent.com/88092102/196908565-5cd96154-996a-4dac-a976-87e2343da5b9.png">      <img width="250" alt="Screen Shot 2022-10-20 at 2 16 23 AM" src="https://user-images.githubusercontent.com/88092102/196908580-ffd90b90-cce0-4b25-acc5-5341697e8a99.png">
 
@@ -45,7 +45,7 @@ Deep Learning(Image Pose Recognition)
 
 
 
-### 💡 Business Model
+💡 Business Model
 ---
 1. Advertisement
 2. Fitness Partnership
