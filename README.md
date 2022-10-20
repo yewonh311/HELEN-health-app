@@ -57,10 +57,10 @@ Deep Learning(Image Pose Recognition)
 figma: https://www.figma.com/file/SSVXCnifx4ohmDmf6w19Or/%ED%97%AC%EB%A6%B0%3A-HELEN?node-id=0%3A1
 
 
-Flow-chart:
+Flow chart:
 ---
 ![Untitled (1)](https://user-images.githubusercontent.com/88092102/196915057-bff44136-222a-4e39-8f8e-079195865e29.png)
 
-Sitemap: 
+Site-map: 
 ---
 ![hellen drawio](https://user-images.githubusercontent.com/88092102/196915092-e7a77f92-5a62-4428-89cf-fd0f20c2953c.png)
