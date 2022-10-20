@@ -1,11 +1,11 @@
 # HELEN-Health-app
 Participated in LIKELION US 2022 project ideathon as a team leader.
 
-🔥HELEN: 헬린🔥
+## 🔥HELEN: 헬린🔥
 
 Like Lion US, class of 2022, University of California, San Diego 🇺🇸 🇰🇷 - Ideathon Project
 
-## 💡 Relevant 
+### 💡 Relevant 
 
 FullStack Development, Data Science, IOT, AI
 Machine Leaning(Knowledge-Based Filtering: KB), 
