@@ -56,7 +56,6 @@ Deep Learning(Image Pose Recognition)
 
 figma: https://www.figma.com/file/SSVXCnifx4ohmDmf6w19Or/%ED%97%AC%EB%A6%B0%3A-HELEN?node-id=0%3A1
 
-youtube(final presentation): https://www.youtube.com/watch?v=W34CcKvaFfU&t=8s
 
 Site-map:
 ---
@@ -65,3 +64,7 @@ Site-map:
 Flow chart: 
 ---
 ![hellen drawio](https://user-images.githubusercontent.com/88092102/196915092-e7a77f92-5a62-4428-89cf-fd0f20c2953c.png)
+
+
+
+youtube(final presentation): https://www.youtube.com/watch?v=W34CcKvaFfU&t=8s
