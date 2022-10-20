@@ -56,7 +56,7 @@ Deep Learning(Image Pose Recognition)
 
 figma: https://www.figma.com/file/SSVXCnifx4ohmDmf6w19Or/%ED%97%AC%EB%A6%B0%3A-HELEN?node-id=0%3A1
 
-<img width="465" alt="Screen Shot 2022-10-20 at 12 35 27 PM" src="https://user-images.githubusercontent.com/88092102/197041498-aa3124be-41b3-455d-8f70-542a469edf2c.png">
+<img width="500" alt="Screen Shot 2022-10-20 at 12 35 27 PM" src="https://user-images.githubusercontent.com/88092102/197041498-aa3124be-41b3-455d-8f70-542a469edf2c.png">
 
 
 
