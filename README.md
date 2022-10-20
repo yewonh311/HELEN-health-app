@@ -28,9 +28,10 @@ Deep Learning(Image Pose Recognition)
 
 #### 📍 Coaching
 
+
+
 #### 📍 Motivation
 
-<img width="250" alt="Screen Shot 2022-10-20 at 2 16 23 AM" src="https://user-images.githubusercontent.com/88092102/196908580-ffd90b90-cce0-4b25-acc5-5341697e8a99.png">
 
 #### 📍 Fitness/ Gym Accessiblity
 
