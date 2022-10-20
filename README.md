@@ -5,16 +5,16 @@ Participated in LIKELION US 2022 project ideathon as a team leader.
 
 Like Lion US, class of 2022, University of California, San Diego 🇺🇸 🇰🇷 - Ideathon Project
 
-**💡 Relevant **
+## 💡 Relevant 
 
 FullStack Development, Data Science, IOT, AI
 Machine Leaning(Knowledge-Based Filtering: KB), 
 Deep Learning(Image Pose Recognition)
 
-**💡 Tech Stack **
+## 💡 Tech Stack 
 
 
-** 💡 Main Feature **
+## 💡 Main Feature 
 
 <img width="288" alt="Screen Shot 2022-10-20 at 2 15 47 AM" src="https://user-images.githubusercontent.com/88092102/196908519-8323cfb6-3c43-4edf-8dd1-dbadad15596a.png">
 
@@ -33,7 +33,7 @@ Deep Learning(Image Pose Recognition)
 📍 Fitness/ Gym Accessiblity
 
 
-💡 Business Model
+## 💡 Business Model
 1. Advertisement
 2. Fitness Partnership
 3. Potential User
