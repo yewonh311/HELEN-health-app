@@ -7,14 +7,15 @@ Like Lion US class of 2022, University of California San Diego 🇺🇸 🇰🇷
 
 
 
-### 💡 Relevant 
+### 💡 Tech Stack
 
-FullStack Development, Data Science, IOT, AI
+FullStack Development, DevOps, Data Science, IOT, AI,
 Machine Leaning(Knowledge-Based Filtering: KB), 
 Deep Learning(Image Pose Recognition)
 
-### 💡 Tech Stack 
+### 💡 Programming Language, Framework
 
+(Planning) Python, Go, MXNet, ReactJS, NodeJS, react, SQLite, .... 
 
 ### 💡 Main Feature 
 
