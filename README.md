@@ -4,7 +4,7 @@ Participated in LIKELION US 2022 project ideathon as a team leader. (Still updat
 
 
 
-## HELEN: 헬린 🦁
+## HELEN: 헬린 🦁 (  HEaLth + ChilderEN = HELEN) 
 
 Like Lion US class of 2022, University of California San Diego 🇺🇸 🇰🇷 - Ideathon Project
 
