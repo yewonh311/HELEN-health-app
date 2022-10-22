@@ -13,7 +13,7 @@ Period: Oct 2022 - Oct 2022 (only two weeks 😂)
 
 
 
-
+<br/><br/><br/>
 
 ### 💡 Tech Stack
 
@@ -21,14 +21,14 @@ FullStack Development, DevOps, Data Science, IOT, AI,
 Machine Leaning(Knowledge-Based Filtering: KB), 
 Deep Learning(Image Pose Recognition)
 
-
+<br/><br/><br/>
 
 ### 💡 Programming Language, Framework
 
 (Planning) Python, Go, MXNet, NodeJS, react, SQLite, .... 
 
 
-
+<br/><br/><br/>
 
 ### 💡 Main Feature 
 
@@ -50,7 +50,7 @@ Deep Learning(Image Pose Recognition)
 #### 📍 Fitness/ Gym Accessiblity
 
 
-
+<br/><br/><br/>
 
 
 ### 💡 Business Model
@@ -60,7 +60,7 @@ Deep Learning(Image Pose Recognition)
 3. Potential User
 4. Premium Membership
 
-
+<br/><br/><br/>
 
 figma: https://www.figma.com/file/SSVXCnifx4ohmDmf6w19Or/%ED%97%AC%EB%A6%B0%3A-HELEN?node-id=0%3A1
 
