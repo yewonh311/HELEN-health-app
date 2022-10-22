@@ -1,11 +1,16 @@
 # HELEN-Health-app
 Participated in LIKELION US 2022 project ideathon as a team leader. (Still updating)
 
-Period: Oct 2022 - Oct 2022 (only two weeks 😂)
+
+
 
 ## HELEN: 헬린 🦁
 
 Like Lion US class of 2022, University of California San Diego 🇺🇸 🇰🇷 - Ideathon Project
+
+Period: Oct 2022 - Oct 2022 (only two weeks 😂)
+
+
 
 
 
