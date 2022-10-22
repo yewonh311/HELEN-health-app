@@ -17,7 +17,7 @@ Deep Learning(Image Pose Recognition)
 
 ### 💡 Programming Language, Framework
 
-(Planning) Python, Go, MXNet, ReactJS, NodeJS, react, SQLite, .... 
+(Planning) Python, Go, MXNet, NodeJS, react, SQLite, .... 
 
 
 
