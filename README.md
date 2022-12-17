@@ -10,6 +10,8 @@ Participated in LIKELION US 2022 project ideathon as a team leader. (Still updat
 ### ( HEaLth + ChilderEN ) : a novice at working out
 
 Like Lion US class of 2022, UC San Diego 🇺🇸 🇰🇷 - Ideathon Project <br/>
+
+
 Period: Oct 2022 ( 2 weeks )
 
 
