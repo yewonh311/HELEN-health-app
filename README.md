@@ -2,6 +2,11 @@
 
 Participated in LIKELION US 2022 project ideathon as a team leader. (Still updating)
 
+
+#### 🗣 youtube(final presentation video): https://www.youtube.com/watch?v=W34CcKvaFfU&t=8s
+
+
+
 ---
 
 
@@ -79,4 +84,3 @@ Flow chart:
 
 
 
-#### 🗣 youtube(final presentation video): https://www.youtube.com/watch?v=W34CcKvaFfU&t=8s
